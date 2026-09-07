@@ -1,0 +1,22 @@
+# Build & IDE
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+.vs/
+*.user
+*.suo
+
+# Tickets generados por la impresora (archivos de auditoría, no código fuente)
+/tickets/
+**/bin/**/tickets/
+ticket-*.txt
+ticket-*.bin
+
+# DB local / secretos
+*.mdf
+*.ldf
+*.sqlite
+appsettings.*.json
+!appsettings.json
+opencode.json
+

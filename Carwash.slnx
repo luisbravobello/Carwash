@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Carwash.Application/Carwash.Application.csproj" />
+    <Project Path="src/Carwash.Desktop/Carwash.Desktop.csproj" />
+    <Project Path="src/Carwash.Domain/Carwash.Domain.csproj" />
+    <Project Path="src/Carwash.Infrastructure/Carwash.Infrastructure.csproj" />
+  </Folder>
+</Solution>
