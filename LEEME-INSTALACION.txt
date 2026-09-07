@@ -1,0 +1,21 @@
+MI CARWASH - INSTALACIÓN EN LA PC DEL NEGOCIO
+=============================================
+
+1) Instalar la impresora
+   - Conecta la EPSON TM-T20II por USB e instala su driver.
+   - Imprime una página de prueba de Windows para confirmar.
+
+2) Instalar la base de datos (1 sola vez)
+   - Instala "SQL Server Express LocalDB" (gratis, de Microsoft).
+   - No hay que configurar nada más: la app crea su base sola al abrir.
+
+3) Abrir la app
+   - Doble clic en Carwash.Desktop.exe
+   - Entra con:  admin / 1234
+   - Cambia esa clave en Config -> Usuarios (lápiz -> Nueva clave).
+
+4) Probar impresión
+   - Config -> Probar impresora. Debe decir "Prueba OK".
+
+NOTA: la primera vez tarda un poco en abrir (se extrae solo). Los tickets
+quedan también en la carpeta "tickets" junto al .exe.

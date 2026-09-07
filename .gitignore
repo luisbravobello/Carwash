@@ -2,6 +2,9 @@
 [Bb]in/
 [Oo]bj/
 [Oo]ut/
+[Pp]ublish/
+publish/
+BuildHost-*/
 .vs/
 *.user
 *.suo
