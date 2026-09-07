@@ -1,4 +1,4 @@
-# Mi Carwash — Punto de venta (WPF + .NET 10)
+# Mi Carwash Punto de venta (WPF + .NET 10)
 
 Sistema local de un solo puesto para carwash + bar: tickets en Epson TM-T20II,
 caja diaria, pendientes (paga al retirar), catálogo, lavadores, usuarios y login.
